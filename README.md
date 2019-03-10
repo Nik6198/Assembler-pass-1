@@ -1,17 +1,17 @@
 # Assembler-pass-1
 
-To run the program first compile Assember.java
-javac Assembler.java
+To run the program first compile Assember.java<br/>
+javac Assembler.java<br/>
 
-and then comiple and run Pass1.java
-javac Pass1.java
-java Pass1
+and then comiple and run Pass1.java<br/>
+javac Pass1.java<br/>
+java Pass1<br/>
 
-There should be input file in current directory and output is written into output file.
+There should be input file in current directory and output is written into output file.<br/>
 
-The opcode table and register table in files "opcodetab" and "register" respectively are used for creating the Intermediate code and Data Structures used for pass2.
+The opcode table and register table in files "opcodetab" and "register" respectively are used for creating the Intermediate code and Data Structures used for pass2.<br/>
 
-Algorithm used : 
+Algorithm used : <br/>
 
 1. Set LC=0.
 2. While next statement is not an END then
